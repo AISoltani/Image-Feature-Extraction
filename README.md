@@ -2,7 +2,7 @@
 
 Image Feature Extraction Code
 This repository contains a set of image feature extraction methods using Python libraries such as OpenCV, scikit-image, and SciPy. These methods compute various image statistics and properties useful for image analysis, including Local Binary Pattern (LBP), Histogram of Oriented Gradients (HOG), edge detection, Gabor filtering, and more. The features computed can be used for applications like facial recognition, image classification, and other computer vision tasks.
-
+***
 Libraries Used:
 - NumPy: For numerical operations.
 - OpenCV: For image processing and computer vision tasks.
